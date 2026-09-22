@@ -22,6 +22,9 @@ I built this project to practice Machine Learning and learn about data handling,
 Projects Files
 
 app.py – Streamlit application
+
 house_price.py – Machine Learning model training
+
 house_data.csv – Dataset
+
 house_price_model.pkl – Trained ML model
